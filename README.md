@@ -1,2 +1,2 @@
-# KalaBhoomiOdisha
-KalaBhoomiOdisha is a mobile(Android) App.
+# Kalabhoomi Odisha
+KalaBhoomi Odisha is a mobile(Android) App.
