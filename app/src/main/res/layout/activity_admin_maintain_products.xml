@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:layout_marginStart="15dp"
+    android:layout_marginEnd="15dp"
+    android:elevation="15dp"
+    tools:context=".Admin.AdminMaintainProductsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <ImageView
+            android:id="@+id/maintain_product_image"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="2dp"
+            />
+        <EditText
+        android:id="@+id/maintain_product_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Product Name"
+        android:layout_below="@id/maintain_product_image"
+        android:textAlignment="center"
+        android:textSize="18dp"
+        android:padding="12dp"
+        android:layout_margin="5dp"
+        android:textStyle="normal"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@drawable/input_design"
+        android:textColorHint="@color/colorPrimaryDark"/>
+
+
+
+        <EditText
+            android:id="@+id/maintain_product_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Product Price"
+            android:layout_below="@id/maintain_product_description"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:padding="12dp"
+            android:layout_margin="5dp"
+            android:textStyle="normal"
+            android:textColor="@color/colorPrimaryDark"
+            android:background="@drawable/input_design"
+            android:textColorHint="@color/colorPrimaryDark"/>
+
+        <EditText
+            android:id="@+id/maintain_product_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Product Description"
+            android:layout_below="@id/maintain_product_name"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:padding="12dp"
+            android:layout_margin="5dp"
+            android:textStyle="normal"
+            android:textColor="@color/colorPrimaryDark"
+            android:background="@drawable/input_design"
+            android:textColorHint="@color/colorPrimaryDark"/>
+
+        <Button
+            android:id="@+id/products_maintain_btn"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_below="@id/maintain_product_price"
+            android:text="Maintain Products"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/buttons"
+            />
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>
