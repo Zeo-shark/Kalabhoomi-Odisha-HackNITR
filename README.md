@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![Android Development](http://ci.php-censor.info/build-status/image/2?branch=master&label=Android&style=flat-square)](http://ci.php-censor.info/build-status/view/2?branch=master)
 [![Java](http://ci.php-censor.info/build-status/image/2?branch=master&label=Java&style=flat-square)](http://ci.php-censor.info/build-status/view/2?branch=master)
 [![Firebase](http://ci.php-censor.info/build-status/image/2?branch=master&label=Firebase&style=flat-square)](http://ci.php-censor.info/build-status/view/2?branch=master)
