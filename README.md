@@ -33,6 +33,3 @@ Therefore our application allows the artists to get their rights and recognition
 
 
 =======
-# Kalabhoomi Odisha
-KalaBhoomi Odisha is a mobile(Android) App.
->>>>>>> 27394eed41198ff8ac1c5a883d3f43962fe38bf1
