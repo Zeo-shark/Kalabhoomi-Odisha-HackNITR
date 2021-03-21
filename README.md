@@ -24,3 +24,9 @@ The devotees, the people who are responsible for the wonderful craftmanship shou
 6. Awesome UI/UX for better user experience.
 7. Push Notification for user's update regarding some discounts news and updates.
 8. User's recieve tracking info and order link through paid messaging services.
+
+## Technical Stacks:
+- Android Native(Java).
+- Firebase Realtime Database.
+- Paper, Volley.
+- Firebase Storage, Authentication.
