@@ -10,7 +10,8 @@ The art is given enormous appreciations but the artist is left out.
 Therefore our application allows the artists to get their rights and recognition and helps them to be proud birds of Odisha. It even looks after the development and regenerates the tradition and introduces the stupendous arts to the country of cultures. It provides a just chance for the craftsmen of angelic arts and crafts and gets deserving acknowledgment to them.
 
 ## Social Good
-Explore the abode of  Manoghya SanskritiOdisha’s arts always pay respect and devotion to the Lord of the lands, Lord Jagannath. Every art, craft, sculpture, scripture, weaving, and clays sing the orisons to the lord but it’s a sad thing that very less of it gets recognized. 
+Explore the abode of  Manoghya Sanskriti. 
+Odisha’s arts always pay respect and devotion to the Lord of the lands, Lord Jagannath. Every art, craft, sculpture, scripture, weaving, and clays sing the orisons to the lord but it’s a sad thing that very less of it gets recognized. 
 
 The devotees, the people who are responsible for the wonderful craftmanship should get justice. Their families should never be left out into hunger and poverty or lack of financial support. Therefore our application provides them their owning platform for making themselves independent and financially stable by introducing their arts and their deserving prices. This will provide the culture to get the proper recognition and its soldiers, an identification. Selling and purchasing are just the processes but the result will be an amazing unity of the country.
 
@@ -24,6 +25,24 @@ The devotees, the people who are responsible for the wonderful craftmanship shou
 6. Awesome UI/UX for better user experience.
 7. Push Notification for user's update regarding some discounts news and updates.
 8. User's recieve tracking info and order link through paid messaging services.
+
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://github.com/Zeo-shark/Kalabhoomi-Odisha/blob/main/previewed/image3.png">
+    <img src="https://github.com/Zeo-shark/Kalabhoomi-Odisha/blob/main/previewed/image4.png" width="400"/></a>
+</td>
+<td style="text-align: center">
+<img src="https://github.com/Zeo-shark/Kalabhoomi-Odisha/blob/main/previewed/image3.png" width="400"/>
+</td>
+  <td style="text-align: center">
+<img src="https://github.com/Zeo-shark/Kalabhoomi-Odisha/blob/main/previewed/image5.png" width="400"/>
+</td>
+</tr></table></div>
+
+
+|-----------------------------------------------|-----------------------------------------------|
+| ![Screenshot](./screenshots/color_loader_4.gif) Color Loader 4 | ![Screenshot](./screenshots/color_loader_5.gif) Color Loader 5 |       
+
 
 ## Technical Stacks:
 - Android Native(Java).
