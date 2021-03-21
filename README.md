@@ -18,6 +18,7 @@ This will provide the culture to get the proper recognition and its soldiers, an
 ## Social Good
 
 Kala Bhoomi Odisha
+
 Pushes you to Explore the abode of  Manoghya Sanskriti
 Manoghya, meaning astounding which is the appropriate adjective to describe the Lord’s beauty who is the sole owner of the Universe. He has to be admired, not only in the lighted words but also in the pure darkness of closed eyes as he chose the simple humans to be the best of his creations. Odisha’s arts always pay respect and devotion to the Lord of the lands, Lord Jagannath.  
 
