@@ -1,6 +1,9 @@
 # Kalabhoomi Odisha
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Zeo-shark/Kalabhoomi-Odisha/releases/tag/v1.0.0) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/Zeo-shark/Kalabhoomi-Odisha/releases/tag/v1.0.0) 
 
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://github.com/Zeo-shark/Kalabhoomi-Odisha/releases/tag/v1.0.0) [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://github.com/Zeo-shark/Kalabhoomi-Odisha/releases/tag/v1.0.0)
 
+https://github.com/Zeo-shark/Kalabhoomi-Odisha/releases/tag/v1.0.0
 
 
 
@@ -88,3 +91,5 @@ The devotees, the people who are responsible for the wonderful craftmanship shou
 - Anshuman Mohapatra
 - Swastik Mishra
 - Sourav Bera
+
+**Download The App Through This Link**(https://github.com/Zeo-shark/Kalabhoomi-Odisha/releases/tag/v1.0.0)
