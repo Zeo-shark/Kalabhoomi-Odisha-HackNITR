@@ -72,7 +72,7 @@
             android:id="@+id/purses_bags_wallets"
             android:layout_width="130dp"
             android:layout_height="80dp"
-            android:src="@drawable/GU1" />
+            android:src="@drawable/umbrella" />
 
         <ImageView
             android:id="@+id/hats_caps"
@@ -99,7 +99,7 @@
             android:id="@+id/headphones_handfree"
             android:layout_width="130dp"
             android:layout_height="80dp"
-            android:src="@drawable/Filigree" />
+            android:src="@drawable/filigree" />
 
         <ImageView
             android:id="@+id/laptops_pc"
