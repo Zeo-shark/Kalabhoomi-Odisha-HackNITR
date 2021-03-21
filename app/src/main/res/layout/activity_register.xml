@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/login1"
+
     tools:context=".RegisterActivity">
 
     <ImageView
@@ -12,7 +12,7 @@
         android:layout_width="313dp"
         android:layout_height="296dp"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/applogo1" />
+        android:src="@drawable/logo" />
 
     <EditText
         android:id="@+id/register_username_input"
@@ -24,8 +24,8 @@
         android:layout_marginHorizontal="15dp"
         android:hint="Full Name"
         android:inputType="textPersonName"
-        android:textColor="@android:color/white"
-        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/black"
+        android:textColorHint="#686464"
         android:textSize="17sp"
         android:textStyle="bold"
         />
@@ -41,8 +41,8 @@
         android:hint="Phone Number"
         android:layout_marginTop="6dp"
         android:inputType="number"
-        android:textColor="@android:color/white"
-        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/black"
+        android:textColorHint="#686464"
         android:textSize="17sp"
         android:textStyle="bold"
         />
@@ -58,8 +58,8 @@
         android:hint="Password"
         android:inputType="numberPassword"
         android:layout_marginTop="6dp"
-        android:textColor="@android:color/white"
-        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/black"
+        android:textColorHint="#686464"
         android:textSize="17sp"
         android:textStyle="bold"
         />
