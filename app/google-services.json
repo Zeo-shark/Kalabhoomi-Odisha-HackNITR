@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "893323477722",
+    "firebase_url": "https://odisha-crafts-default-rtdb.firebaseio.com",
     "project_id": "odisha-crafts",
     "storage_bucket": "odisha-crafts.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:893323477722:android:aed9135caa43fe76835be3",
+        "mobilesdk_app_id": "1:893323477722:android:af60668f81a4f486835be3",
         "android_client_info": {
           "package_name": "com.android.github.souravbera.kalabhoomiodisha"
         }
