@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Android Development](http://ci.php-censor.info/build-status/image/2?branch=master&label=Android&style=flat-square)](http://ci.php-censor.info/build-status/view/2?branch=master)
 [![Java](http://ci.php-censor.info/build-status/image/2?branch=master&label=Java&style=flat-square)](http://ci.php-censor.info/build-status/view/2?branch=master)
 [![Firebase](http://ci.php-censor.info/build-status/image/2?branch=master&label=Firebase&style=flat-square)](http://ci.php-censor.info/build-status/view/2?branch=master)
@@ -34,3 +35,7 @@ This was a part of an intership of [i-Vastra.com](i-vastra.com); to build a full
 ![](https://github.com/nano-research-labs/E-Commerce-Clothes-App/blob/master/assets/photo_2020-10-06_01-10-33.jpg)
 ![](https://github.com/nano-research-labs/E-Commerce-Clothes-App/blob/master/assets/photo_2020-10-06_01-10-45.jpg)
 ![](https://github.com/nano-research-labs/E-Commerce-Clothes-App/blob/master/assets/photo_2020-10-06_01-10-48.jpg)
+=======
+# Kalabhoomi Odisha
+KalaBhoomi Odisha is a mobile(Android) App.
+>>>>>>> 27394eed41198ff8ac1c5a883d3f43962fe38bf1
